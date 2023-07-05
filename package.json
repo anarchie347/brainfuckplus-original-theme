@@ -1,0 +1,21 @@
+{
+  "name": "brainfuckplus-original-theme",
+  "displayName": "BrainfuckPlus original theme",
+  "description": "The original colour theme used by anarchie347's Brainfuckplus extension during development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BrainfuckPlus original theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BrainfuckPlus original theme-color-theme.json"
+      }
+    ]
+  }
+}
