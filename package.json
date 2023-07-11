@@ -17,5 +17,9 @@
         "path": "./themes/BrainfuckPlus original theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "url": "https://github.com/anarchie347/brainfuckplus-original-theme",
+    "type": "git"
   }
 }
